@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://telegra.ph/file/b2b4fee33e6c7d2a5651a.jpg">
+  <img src="https://te.legra.ph/file/e0adaa5836ec441f6e8cb.jpg">
 </p>
 ━━━━━━━━━━━━━━━━━━━━
 **ᴄᴀɴᴅʏ ǫᴜᴇᴇɴ ᴄʜᴀᴛʙᴏᴛ**
@@ -22,7 +22,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/its-star-boi/chatbot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-skyblue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/romanaopp/chatbot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-skyblue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h2 align="center"> 
    ⇝ ɪɴsᴛᴀʟʟ ʟᴏᴄᴀʟʟʏ ᴏʀ ᴏɴ ᴀ ᴠᴘs ⇜
@@ -39,7 +39,7 @@ $ pip3 install -U -r requirements.txt
 ```
  
 <h3 align="center"> 
-    ᴇᴅɪᴛ <b>CandyAi.py</b> ᴡɪᴛʜ ɪɴ ʏᴏᴜʀ ᴏᴡɴ ᴠᴀʟᴜᴇs
+    ᴇᴅɪᴛ <b>RomanaAi.py</b> ᴡɪᴛʜ ɪɴ ʏᴏᴜʀ ᴏᴡɴ ᴠᴀʟᴜᴇs
 </h3>
 
 <h2 align="center"> 
@@ -47,14 +47,14 @@ $ pip3 install -U -r requirements.txt
 </h2>
 
 ```console
-$ python3 CandyAi.py , nohup python3 CandyAi.py &
+$ python3 RomanaAi.py , nohup python3 RomanaAi.py &
 ```
 
 
 
   ━━━━━━━━━━━━━━━━━━━━
 ━━━━━━━━━━━━━━━━━━━━
-**ᴄᴀɴᴅʏ ǫᴜᴇᴇɴ ᴄʜᴀᴛʙᴏᴛ**
+**ᴄʜᴀᴛʙᴏᴛ**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
