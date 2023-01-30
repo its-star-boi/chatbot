@@ -1,5 +1,5 @@
 ━━━━━━━━━━━━━━━━━━━━
-**ᴄᴀɴᴅʏ ǫᴜᴇᴇɴ ᴄʜᴀᴛʙᴏᴛ**
+**ᴄʜᴀᴛʙᴏᴛ**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -8,7 +8,7 @@
   <img src="https://te.legra.ph/file/e0adaa5836ec441f6e8cb.jpg">
 </p>
 ━━━━━━━━━━━━━━━━━━━━
-**ᴄᴀɴᴅʏ ǫᴜᴇᴇɴ ᴄʜᴀᴛʙᴏᴛ**
+**ᴄʜᴀᴛʙᴏᴛ**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
