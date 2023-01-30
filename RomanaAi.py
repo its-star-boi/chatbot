@@ -14,8 +14,8 @@ import os
 import re
 
 
-API_ID = os.environ.get("API_ID", "15599295") 
-API_HASH = os.environ.get("API_HASH", "4ce42998f7df4a64934294dadca28ae0") 
+API_ID = os.environ.get("API_ID", "23125368") 
+API_HASH = os.environ.get("API_HASH", "3139665113a3c4afdc16cfa25f34e976") 
 SESSION_NAME = os.environ.get("SESSION_NAME", "")
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://its_star_boi:7234049299@cluster0.8twjh9e.mongodb.net/?retryWrites=true&w=majority") 
 
@@ -41,18 +41,18 @@ async def chatbot(client, message):
         photo=f"https://telegra.ph/file/3f7c8a1feb6ae7e41e925.jpg",
         caption=f"""━━━━━━━━━━━━━━━━━━━━━━━━
 💥 A ᴘᴏᴡᴇʀғᴜʟ ᴀɪ ʙᴏᴛ
-ᴏғ ♻️ 𝐒𝐓𝐀𝐑 𓆩🇽𓆪 𝐁𝐎𝐈 🔥
+ᴏғ ♻️ Romana 🔥
 ━━━━━━━━━━━━━━━━━
 ᴅᴀᴛᴀʙᴀsᴇ ʙᴀᴄᴋᴇɴᴅ ʙᴏᴛ ғᴏʀ ᴛɢ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴇʀ [𝐒𝐓𝐀𝐑 𓆩🇽𓆪 𝐁𝐎𝐈](https://t.me/its_star_boi)
-┣★ ʙᴏᴛ ᴜᴏᴅᴀᴛᴇs [ᴏᴜʀ ᴏᴛʜᴇʀ ʙᴏᴛs](https://t.me/Star_X_Network)
-┣★ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [ᴄʜᴀᴛ](https://t.me/Best_FriendsFor_Ever)
+┣★ ᴄʀᴇᴀᴛᴇʀ [Romana](https://t.me/ii_Romana_ii)
+┣★ ʙᴏᴛ ᴜᴘᴅᴀᴛᴇs [ᴏᴜʀ ᴏᴛʜᴇʀ ʙᴏᴛs](https://t.me/TheLove2Forever)
+┣★ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [ᴄʜᴀᴛ](https://t.me/TheLove2Forever)
 ┗━━━━━━━━━━━━━━━━━┛
 💞 
-IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @Its_star_boi""",
+IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @ii_Romana_ii""",
         reply_markup=InlineKeyboardMarkup(
-            [[InlineKeyboardButton("🌼 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 💮", url=f"https://t.me/Best_FriendsFor_Ever")]]
+            [[InlineKeyboardButton("🌼 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 💮", url=f"https://t.me/TheLove2Forever")]]
         ),
     ) 
 
@@ -61,7 +61,7 @@ IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @Its_star_boi""",
     filters.command("alive", prefixes=["/", ".", "?", "-"])
     & ~filters.private)
 async def start(client, message):
-    await message.reply_text(f"**ᴄᴀɴᴅʏ ǫᴜᴇᴇɴ ɪs ᴀʟɪᴠᴇ**")
+    await message.reply_text(f"**Alive**")
     
     
 @client.on_message(
