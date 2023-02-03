@@ -44,8 +44,8 @@
 
 ```console
 $ tmux
-$ git clone <repo link>
-$ cd <ʀᴇᴘᴏ ɴᴀᴍᴇ>
+$ git clone https://github.com/its-star-boi/chatbot
+$ cd chatbot 
 $ pip3 install -U -r requirements.txt
 
 
