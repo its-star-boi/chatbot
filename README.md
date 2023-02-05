@@ -9,8 +9,9 @@
 </p>
 ━━━━━━━━━━━━━━━━━━━━
 **ᴄᴀɴᴅʏ ǫᴜᴇᴇɴ ᴄʜᴀᴛʙᴏᴛ**
+
 ## ʀᴇᴘᴏ sᴛᴀᴛs
-<a href="https://github.com/its-star-boi/chatbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=its-star-boi &repo=chatbot&theme=chartreuse-dark"></a>
+<a href="https://github.com/its-star-boi/chatbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=its-star-boi&repo=chatbot&theme=chartreuse-dark"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
